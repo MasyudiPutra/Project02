@@ -16,5 +16,6 @@ public class KarpetAksi {
         k1.lebar = 2;
         
         k1.cetakkarpet();
+        System.out.println("Luas Karpet = "+k1.hitungLuas());
     }
 }

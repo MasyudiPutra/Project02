@@ -19,4 +19,11 @@ public class Karpet {
         System.out.println("lebar karpet = "+lebar);
         System.out.println("===========================");
     }
+    
+    double hitungLuas(){
+        double luas;
+        luas=panjang*lebar;
+        return luas;
+    }
+    
 }
