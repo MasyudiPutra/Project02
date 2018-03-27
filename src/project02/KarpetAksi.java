@@ -14,6 +14,7 @@ public class KarpetAksi {
         Karpet k1 = new Karpet();
         k1.panjang = 10;
         k1.lebar = 2;
+        
+        k1.cetakkarpet();
     }
-    
 }

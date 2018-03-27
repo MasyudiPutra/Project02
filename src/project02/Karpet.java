@@ -14,7 +14,9 @@ public class Karpet {
     double lebar;
     
     void cetakkarpet(){
+        System.out.println("===========================");
         System.out.println("panjang karpet = "+panjang);
         System.out.println("lebar karpet = "+lebar);
+        System.out.println("===========================");
     }
 }
