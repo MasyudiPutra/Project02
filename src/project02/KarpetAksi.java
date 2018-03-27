@@ -22,7 +22,7 @@ public class KarpetAksi {
         Karpet k2 =new Karpet();
         k2.cetakKarpet();
         
-        Karpet k3 = new Karpet(25,2);
+        Karpet k3 = new Karpet(25,3);
         k3.cetakKarpet();
     }
 }
