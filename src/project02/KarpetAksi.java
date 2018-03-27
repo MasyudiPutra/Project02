@@ -15,7 +15,14 @@ public class KarpetAksi {
         k1.panjang = 10;
         k1.lebar = 2;
         
-        k1.cetakkarpet();
+        k1.cetakKarpet();
         System.out.println("Luas Karpet = "+k1.hitungLuas());
+        k1.cetakLuas();
+        
+        Karpet k2 =new Karpet();
+        k2.cetakKarpet();
+        
+        Karpet k3 = new Karpet(25,2);
+        k3.cetakKarpet();
     }
 }
