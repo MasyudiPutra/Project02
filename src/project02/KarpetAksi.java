@@ -10,5 +10,8 @@ package project02;
  * @author ASUS
  */
 public class KarpetAksi {
+    public static void main(String[] args) {
+        Karpet k1 = new Karpet();
+    }
     
 }
